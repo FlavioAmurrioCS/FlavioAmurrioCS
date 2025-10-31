@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am software engineer with a deep interest in developer tooling and automation. Check out some of py library on [PYPI](https://pypi.org/user/FlavioAmurrioCS/)
+I am software engineer with a deep interest in developer tooling and automation. Here are some of my python libraries/tools.
 | Name                                                                              | Monthly                                                                        |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [asciinema-gif-generator](https://pypi.org/project/asciinema-gif-generator)       | ![PyPI - Downloads](https://img.shields.io/pypi/dm/asciinema-gif-generator)    |
